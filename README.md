@@ -183,7 +183,7 @@ Feature importance is another as asking, "which features contributed most to the
 
 Finding feature importance is different for each machine learning model. One way to find feature importance is to search for "(MODEL NAME) feature importance".
 
-Let's find the feature importance for our LogisticRegression model...
+
 
 In conclusion the model trained to predict whether a patient has heart disease or not using machine learning is 92.72% accuracy
 
