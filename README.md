@@ -101,9 +101,9 @@ We're going to use pandas, Matplotlib and NumPy for data analysis and manipulati
 
 Data Exploration
 
-Checkinh Heart Disease Frequency according to Sex
+(1).Checking Heart Disease Frequency according to Sex
 
-Age vs. Maximum Heart Rate for Heart Disease
+(2).Age vs. Maximum Heart Rate for Heart Disease
 
 Heart Disease Frequency per Chest Pain Type
 3.cp - chest pain type
@@ -115,6 +115,7 @@ Heart Disease Frequency per Chest Pain Type
 2: Non-anginal pain: typically esophageal spasms (non heart related)
 
 3: Asymptomatic: chest pain not showing signs of disease
+
 
 Modelling
 
@@ -184,4 +185,6 @@ Finding feature importance is different for each machine learning model. One way
 
 Let's find the feature importance for our LogisticRegression model...
 
-in conclusion the model trained to predict whether a patient has heart disease or not using machine learning is 92.72%
+In conclusion the model trained to predict whether a patient has heart disease or not using machine learning is 92.72% accuracy
+
+
